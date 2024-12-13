@@ -23,6 +23,22 @@
       "category": "Setup",
       "price": 400,
       "createdAt": "2024-12-11T18:25:21.463Z"
+    },
+    {
+      "description": "Banana",
+      "category": "alimentação",
+      "price": 10,
+      "type": "outcome",
+      "createdAt": "2024-12-13T05:24:22.761Z",
+      "id": 4
+    },
+    {
+      "description": "Pastel",
+      "category": "Alimentação",
+      "price": 2,
+      "type": "outcome",
+      "createdAt": "2024-12-13T05:48:41.473Z",
+      "id": 5
     }
   ]
 }
