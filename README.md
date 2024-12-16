@@ -1,7 +1,7 @@
 # Bank Account
 
 Um pequena simulação de um banco fazendo transferência bancaria
-![]()
+![](./.github/img/dt-money.png)
 
 ## Tecnologias usadas
 
